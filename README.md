@@ -66,7 +66,7 @@ Hardware
 Software
 -----------
 ### Marlin 2.0.6.1 Release
-- []()
+- [Marlin Source Code](https://github.com/hellothisisMatt/Ender-3/tree/main/Marlin-2.0.6.1)
 
 ### Octoprint Latest running on Ubuntu 20.04
 - [Octoprint Download](https://octoprint.org/download/)
