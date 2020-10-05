@@ -71,5 +71,16 @@ Software
 ### Octoprint Latest running on Ubuntu 20.04
 - [Octoprint Download](https://octoprint.org/download/)
 
+### Octoprint Plugins
+- [Cost Estimation](https://plugins.octoprint.org/plugins/costestimation/)
+- [Dashboard](https://plugins.octoprint.org/plugins/dashboard/)
+- [DisplayLayerProgress](https://plugins.octoprint.org/plugins/DisplayLayerProgress/)
+- [Filament Manager](https://plugins.octoprint.org/plugins/filamentmanager/)
+- [Heater Timeout](https://plugins.octoprint.org/plugins/heatertimeout/)
+- [Wide Screen](https://plugins.octoprint.org/plugins/widescreen/)
+- [Print Time Genius](https://plugins.octoprint.org/plugins/PrintTimeGenius/)
+- [Resource Monitor](https://plugins.octoprint.org/plugins/resource_monitor/)
+- [Themify](https://plugins.octoprint.org/plugins/themeify/)
+
 ### Timelapse/Camera Setup
 - [Guide](https://community.octoprint.org/t/setting-up-octoprint-on-a-raspberry-pi-running-raspbian/2337)
