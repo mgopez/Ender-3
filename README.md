@@ -5,7 +5,8 @@ Matt's Ender 3
 Hardware
 -------------
 ### Base Printer:
-https://www.amazon.ca/Comgrow-Creality-Ender-Printer-Tempered/dp/B07DYL9B2S/ref=sr_1_5?dchild=1&keywords=ender+3&qid=1601920606&sr=8-5
+> Ender 3 v1
+- [Ender 3](https://www.amazon.ca/Comgrow-Creality-Ender-Printer-Tempered/dp/B07DYL9B2S/ref=sr_1_5?dchild=1&keywords=ender+3&qid=1601920606&sr=8-5)
 
 ### Board:
 > BTT - SKR v1.4 Turbo
