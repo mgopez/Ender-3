@@ -45,6 +45,9 @@ Hardware
 - [PEI Bed](https://www.amazon.ca/gp/product/B07XBM24HN/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
 - [PEI Leveling Nuts & Springs](https://www.amazon.ca/gp/product/B082PC59BP/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
+### Extruder Drive Feeder
+> Creality Upgraded Aluminum Extruder Drive Feeder
+- [Struder](https://www.amazon.ca/gp/product/B07B5118T7/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
 ### Enclosure:
 > Creality Fireproof & Dustproof Enclosure (Small)
