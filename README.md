@@ -20,9 +20,8 @@ Hardware
 - [Screen Enclosure](https://www.thingiverse.com/thing:4457954)
 
 ### Stepper Motor Drivers:  
-> BTT - TMC 2130
-- [TMC 2130](https://www.amazon.ca/BIQU-Printer-Stepstick-TMC2130-Stepper/dp/B07RSX2W3V/ref=sr_1_7?dchild=1&keywords=tmc2130&qid=1601912675&sr=8-7)
-- [Noctua Thermal Paste NT-H2](https://www.amazon.ca/NT-H2-10g-Pro-Grade-Compound-Cleaning/dp/B07MZ5GQBM/ref=sr_1_7?dchild=1&keywords=noctua+thermal+paste&qid=1601912949&sr=8-7)
+> BTT - TMC 2209
+- [TMC 2209](https://www.amazon.ca/gp/product/B07ZFFGRKB/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 ### Hotend:
 > Micro Swiss All Metal Hotend
