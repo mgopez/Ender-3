@@ -9,9 +9,8 @@ Hardware
 - [Ender 3](https://www.amazon.ca/Comgrow-Creality-Ender-Printer-Tempered/dp/B07DYL9B2S/ref=sr_1_5?dchild=1&keywords=ender+3&qid=1601920606&sr=8-5)
 
 ### Board:
-> BTT - SKR v1.4 Turbo
-- [SKR v1.4 Turbo](https://www.amazon.ca/BIGTREETECH-Controller-Printer-Compatible-With12864LCD/dp/B082PS64QW/ref=sxts_sxwds-bia-wc-p13n1_0?cv_ct_cx=skr+v1.4+turbo&dchild=1&keywords=skr+v1.4+turbo&pd_rd_i=B082PS64QW&pd_rd_r=7817a07a-404a-409a-9100-978d270494b6&pd_rd_w=80GTn&pd_rd_wg=2ct9w&pf_rd_p=74e5202e-a4d1-47b7-b01d-48d1d6f1f6c4&pf_rd_r=6DQTNP2Q69P45XWSVQND&psc=1&qid=1601912476&sr=1-1-a14f3e51-9e3d-4cb5-bc68-d89d95c82244)
-- [DCDC Mode V1.0 5V](https://www.amazon.ca/BIGTREETECH-Module-Expansion-Controller-Printer/dp/B087X1DQ6T/ref=sxts_sxwds-bia-wc-p13n2_0?cv_ct_cx=skr+v1.4+turbo&dchild=1&keywords=skr+v1.4+turbo&pd_rd_i=B087X1DQ6T&pd_rd_r=7817a07a-404a-409a-9100-978d270494b6&pd_rd_w=80GTn&pd_rd_wg=2ct9w&pf_rd_p=74e5202e-a4d1-47b7-b01d-48d1d6f1f6c4&pf_rd_r=6DQTNP2Q69P45XWSVQND&psc=1&qid=1601912476&sr=1-2-a14f3e51-9e3d-4cb5-bc68-d89d95c82244)
+> BTT - SKR Mini E3 v1.2+
+- [SKR Mini E3 v1.2+](https://www.biqu.equipment/products/bigtreetech-skr-mini-e3-v1-2-32-bit-control-board-tft35-e3-v3-0-integrated-tmc2209-uart-for-ender-3)
 - [Board Enclosure](https://www.thingiverse.com/thing:4099687)
 
 ### Screen:
