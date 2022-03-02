@@ -11,7 +11,11 @@ Hardware
 ### Board:
 > BTT - SKR Mini E3 v1.2+
 - [SKR Mini E3 v1.2+](https://www.biqu.equipment/products/bigtreetech-skr-mini-e3-v1-2-32-bit-control-board-tft35-e3-v3-0-integrated-tmc2209-uart-for-ender-3)
+> BTT - SKR V1.4 Turbo 
+- [SKR V1.4 Turbo](https://www.amazon.ca/gp/product/B082PS64QW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+> Board Enclosure
 - [Board Enclosure](https://www.thingiverse.com/thing:4099687)
+
 
 ### Screen:
 > BTT - TFT70 v3.0
